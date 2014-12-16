@@ -8,3 +8,9 @@
   <packaging>aar</packaging>
   <description>POM was created from install:install-file</description>
 </project>
+
+<repository>
+    <id>git-dereksalama</id>
+    <name>Derek Salama's Git based repo</name>
+    <url>https://github.com/dereksalama/maven-test/raw/master/</url>
+</repository>
